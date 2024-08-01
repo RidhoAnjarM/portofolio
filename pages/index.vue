@@ -31,50 +31,63 @@
                         </div>
                         <div class="flex justify-evenly w-full mt-[20px] lg:block lg:w-[100px] lg:my-auto lg:me-[80px]">
 
+
                             <a href="#"
-                                class="w-[30px] h-[30px] border-[1px] border border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#C13584] duration-500 ease-in-out"><svg
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                class="w-[30px] h-[30px] border-[1px]  border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[11px] lg:pt-[14px] fill-white hover:bg-white hover:fill-[#E65100] duration-500 ease-in-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
                                     <path
-                                        d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
-                                </svg></a>
+                                        d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z" />
+                                </svg>
+                            </a>
                             <a href="#"
-                                class="w-[30px] h-[30px] border-[1px] border border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#3b5998] duration-500 ease-in-out"><svg
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                class="w-[30px] h-[30px] border-[1px]  border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[11px] lg:my-[10px] lg:pt-[14px] fill-white hover:bg-white hover:fill-[#2975af] duration-500 ease-in-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
                                     <path
-                                        d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z" />
-                                </svg></a>
+                                        d="M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3 .1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2 .1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z" />
+                                </svg>
+                            </a>
                             <a href="#"
-                                class="w-[30px] h-[30px] border-[1px] border border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-white hover:bg-black hover:fill-[#FFFFF] duration-500 ease-in-out hover:border-black"><svg
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                class="w-[30px] h-[30px] border-[1px]  border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[10px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#cfc22b] duration-500 ease-in-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                                     <path
-                                        d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z" />
-                                </svg></a>
+                                        d="M448 96c0-35.3-28.7-64-64-64H64C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96zM180.9 444.9c-33.7 0-53.2-17.4-63.2-38.5L152 385.7c6.6 11.7 12.6 21.6 27.1 21.6c13.8 0 22.6-5.4 22.6-26.5V237.7h42.1V381.4c0 43.6-25.6 63.5-62.9 63.5zm85.8-43L301 382.1c9 14.7 20.8 25.6 41.5 25.6c17.4 0 28.6-8.7 28.6-20.8c0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5c0-31.6 24.1-55.6 61.6-55.6c26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18c-12.3 0-20.1 7.8-20.1 18c0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2c0 37.8-29.8 58.6-69.7 58.6c-39.1 0-64.4-18.6-76.7-43z" />
+                                </svg>
+                            </a>
                             <a href="#"
-                                class="w-[30px] h-[30px] border-[1px] border border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#00acee] duration-500 ease-in-out"><svg
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                class="w-[30px] h-[30px] border-[1px]  border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[6px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#8800ff] duration-500 ease-in-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
                                     <path
-                                        d="M459.4 151.7c.3 4.5 .3 9.1 .3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53 51.7 63.7 129.3 105.3 216.4 109.8-1.6-7.8-2.6-15.9-2.6-24 0-57.8 46.8-104.9 104.9-104.9 30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3z" />
-                                </svg></a>
+                                        d="M320 104.5c171.4 0 303.2 72.2 303.2 151.5S491.3 407.5 320 407.5c-171.4 0-303.2-72.2-303.2-151.5S148.7 104.5 320 104.5m0-16.8C143.3 87.7 0 163 0 256s143.3 168.3 320 168.3S640 349 640 256 496.7 87.7 320 87.7zM218.2 242.5c-7.9 40.5-35.8 36.3-70.1 36.3l13.7-70.6c38 0 63.8-4.1 56.4 34.3zM97.4 350.3h36.7l8.7-44.8c41.1 0 66.6 3 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7h-70.7L97.4 350.3zm185.7-213.6h36.5l-8.7 44.8c31.5 0 60.7-2.3 74.8 10.7 14.8 13.6 7.7 31-8.3 113.1h-37c15.4-79.4 18.3-86 12.7-92-5.4-5.8-17.7-4.6-47.4-4.6l-18.8 96.6h-36.5l32.7-168.6zM505 242.5c-8 41.1-36.7 36.3-70.1 36.3l13.7-70.6c38.2 0 63.8-4.1 56.4 34.3zM384.2 350.3H421l8.7-44.8c43.2 0 67.1 2.5 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7H417l-32.8 168.7z" />
+                                </svg>
+                            </a>
                             <a href="#"
-                                class="w-[30px] h-[30px] border-[1px] border border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#c4302b] duration-500 ease-in-out"><svg
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                class="w-[30px] h-[30px] border-[1px]  border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-white hover:bg-white hover:fill-[#ff0000] duration-500 ease-in-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                     <path
-                                        d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z" />
-                                </svg></a>
+                                        d="M504.4 115.8a5.7 5.7 0 0 0 -.3-.7 8.5 8.5 0 0 0 -.5-1.3 6 6 0 0 0 -.5-.7 9.4 9.4 0 0 0 -.7-.9c-.2-.2-.5-.4-.8-.6a8.8 8.8 0 0 0 -.9-.7L404.4 55.6a8 8 0 0 0 -8 0L300.1 111h0a8.1 8.1 0 0 0 -.9 .7 7.7 7.7 0 0 0 -.8 .6 8.2 8.2 0 0 0 -.7 .9c-.2 .2-.4 .5-.5 .7a9.7 9.7 0 0 0 -.5 1.3c-.1 .2-.2 .4-.3 .7a8.1 8.1 0 0 0 -.3 2.1V223.2l-80.2 46.2V63.4a7.8 7.8 0 0 0 -.3-2.1c-.1-.2-.2-.5-.3-.7a8.4 8.4 0 0 0 -.5-1.2c-.1-.3-.4-.5-.5-.7a9.4 9.4 0 0 0 -.7-.9 9.5 9.5 0 0 0 -.8-.6 9.8 9.8 0 0 0 -.9-.7h0L115.6 1.1a8 8 0 0 0 -8 0L11.3 56.5h0a6.5 6.5 0 0 0 -.9 .7 7.8 7.8 0 0 0 -.8 .6 8.2 8.2 0 0 0 -.7 .9c-.2 .3-.4 .5-.6 .7a7.9 7.9 0 0 0 -.5 1.2 6.5 6.5 0 0 0 -.3 .7 8.2 8.2 0 0 0 -.3 2.1v329.7a8 8 0 0 0 4 7l192.5 110.8a8.8 8.8 0 0 0 1.3 .5c.2 .1 .4 .2 .6 .3a7.9 7.9 0 0 0 4.1 0c.2-.1 .4-.2 .6-.2a8.6 8.6 0 0 0 1.4-.6L404.4 400.1a8 8 0 0 0 4-7V287.9l92.2-53.1a8 8 0 0 0 4-7V117.9A8.6 8.6 0 0 0 504.4 115.8zM111.6 17.3h0l80.2 46.2-80.2 46.2L31.4 63.4zm88.3 60V278.6l-46.5 26.8-33.7 19.4V123.5l46.5-26.8zm0 412.8L23.4 388.5V77.3L57.1 96.7l46.5 26.8V338.7a6.9 6.9 0 0 0 .1 .9 8 8 0 0 0 .2 1.2h0a5.9 5.9 0 0 0 .4 .9 6.4 6.4 0 0 0 .4 1v0a8.5 8.5 0 0 0 .6 .8 7.6 7.6 0 0 0 .7 .8l0 0c.2 .2 .5 .4 .8 .6a8.9 8.9 0 0 0 .9 .7l0 0 0 0 92.2 52.2zm8-106.2-80.1-45.3 84.1-48.4 92.3-53.1 80.1 46.1-58.8 33.6zm184.5 4.6L215.9 490.1V397.8L346.6 323.2l45.8-26.2zm0-119.1L358.7 250l-46.5-26.8V131.8l33.7 19.4L392.4 178zm8-105.3-80.2-46.2 80.2-46.2 80.2 46.2zm8 105.3V178L455 151.2l33.7-19.4v91.4h0z" />
+                                </svg>
+                            </a>
+                            <a href="#"
+                                class="w-[30px] h-[30px] border-[1px]  border-white rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[9px] lg:pt-[13px] fill-white hover:bg-white hover:fill-[#42b883] duration-500 ease-in-out">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                    <path
+                                        d="M356.9 64.3H280l-56 88.6-48-88.6H0L224 448 448 64.3h-91.1zm-301.2 32h53.8L224 294.5 338.4 96.3h53.8L224 384.5 55.7 96.3z" />
+                                </svg>
+                            </a>
 
                         </div>
                     </div>
                 </div>
-                <div class="flex flex-wrap lg:">
+                <div class="flex flex-wrap">
                     <div
-                        class="w-[295px] h-[333px] rounded-[30px] bg-primary overflow-hidden flex items-end mt-[50px] lg:mt-[166px] lg:w-[349px] lg:h-[395px] mx-auto lg:mx-0 lg:border lg:border-2 lg:border-secondary">
+                        class="w-[295px] h-[333px] rounded-[30px] bg-primary overflow-hidden flex items-end mt-[50px] lg:mt-[166px] lg:w-[349px] lg:h-[395px] mx-auto lg:mx-0 lg:border-2 lg:border-secondary">
                         <img src="~/assets/img/me.png" alt="">
                     </div>
                     <div
-                        class="bg-secondary h-[150px] rounded-s-[30px] mt-[35px] block w-[333px] ms-[56px] lg:ms-0 lg:bg-transparent">
+                        class="bg-secondary h-[150px] rounded-s-[30px] mt-[35px] block w-[333px] ms-[56px] lg:ms-0 lg:bg-transparent lg:mt-[20px]">
                         <div
-                            class="w-[230px] h-[50px] rounded-full bg-primary flex items-center justify-center mt-[18px] ms-[20px] lg:w-[349px] lg:h-[65px] lg:rounded-[20px] lg:border lg:border-2 lg:border-secondary hover:lg:text-primary hover:lg:bg-secondary hover:lg:shadow-2xl duration-500 ease-in-out lg:ms-0">
-                            <a href="#"
+                            class="w-[230px] h-[50px] rounded-full bg-primary flex items-center justify-center mt-[18px] ms-[20px] lg:w-[349px] lg:h-[65px] lg:rounded-[20px] lg:border-2 lg:border-secondary hover:lg:text-primary hover:lg:bg-secondary hover:lg:shadow-2xl duration-500 ease-in-out lg:ms-0">
+                            <a href="contact"
                                 class="font-space-grotesk text-secondary font-bold fill-secondary text-[20px] flex items-center justify-center hover:lg:fill-white hover:lg:text-primary w-full h-full duration-500 ease-in-out">
                                 <span class="me-[10px]"><svg xmlns="http://www.w3.org/2000/svg" height="20px"
                                         width="20px" viewBox="0 0 512 512">
@@ -83,8 +96,8 @@
                                     </svg></span><span>Contact Me</span></a>
                         </div>
                         <div
-                            class="w-[230px] h-[50px] rounded-full bg-primary flex items-center justify-center mt-[18px] ms-[20px] lg:w-[349px] lg:h-[65px] lg:rounded-[20px] lg:border lg:border-2 lg:border-secondary hover:lg:text-primary hover:lg:bg-secondary hover:lg:shadow-2xl duration-500 ease-in-out lg:ms-0">
-                            <a href="#"
+                            class="w-[230px] h-[50px] rounded-full bg-primary flex items-center justify-center mt-[18px] ms-[20px] lg:w-[349px] lg:h-[65px] lg:rounded-[20px] lg:border-2 lg:border-secondary hover:lg:text-primary hover:lg:bg-secondary hover:lg:shadow-2xl duration-500 ease-in-out lg:ms-0">
+                            <a href="project"
                                 class="font-space-grotesk text-secondary font-bold fill-secondary text-[20px] flex items-center justify-center hover:lg:fill-white hover:lg:text-primary w-full h-full duration-500 ease-in-out">
                                 <span class="me-[10px]"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="22.5"
                                         viewBox="0 0 576 512">

@@ -5,8 +5,7 @@
       <div class="flex items-center justify-between relative">
         <div class="px-4 lg:ps-[100px] lg:pe-[100px]">
           <a href="#home"
-            class="font-bold text-[32px] text-dark block py-6 lg:text-[54px] font-space-grotesk">Porto<span
-              class="text-secondary">folio</span></a>
+            class=""><img src="~/assets/img/logo.png" alt="" class="w-[70px] h-[70px] lg:w-[100px] lg:h-[100px]" ></a>
         </div>
         <div class="flex items-center px-4">
           <button id="hamburger" name="hamburger" type="button" class="block absolute right-4 lg:hidden">
@@ -19,23 +18,23 @@
             class="hidden absolute py-5 bg-white shadow-lg rounded-lg max-w-[200px] w-full right-4 top-full lg:block lg:static lg:bg-transparent lg:max-w-full lg:shadow-none lg:rounded-none">
             <ul class="block lg:flex">
               <li class="group">
-                <NuxtLink to="#"
+                <NuxtLink to="/"
                   class="text-base text-secondary py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary group-hover:lg:shadow-2xl duration-300 ease-in-out">
                   Home</NuxtLink>
               </li>
               <li class="group">
-                <NuxtLink to="#"
+                <NuxtLink to="/about"
                   class="text-base text-secondary py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary group-hover:lg:shadow-2xl duration-300 ease-in-out">
                   About</NuxtLink>
               </li>
               <li class="group">
-                <NuxtLink to="#"
+                <NuxtLink to="/project"
                   class="text-base text-secondary py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary group-hover:lg:shadow-2xl duration-300 ease-in-out">
-                  Potofolio
+                  Project
                 </NuxtLink>
               </li>
               <li class="group">
-                <NuxtLink to="#"
+                <NuxtLink to="/contact"
                   class="text-base text-secondary py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary group-hover:lg:shadow-2xl duration-300 ease-in-out lg:me-[100px] ">
                   Contact
                 </NuxtLink>
