@@ -1,9 +1,9 @@
 <template>
     <Header />
-    <section class="mb-[52px] lg:mb-[121px]">
+    <section class="mb-[52px] lg:mb-[121px] w-full">
         <div class="container">
             <div class="flex flex-wrap lg:flex w-full lg:justify-between lg:flex-nowrap">
-                <div class="w-full flex mt-[152px] lg:mt-[221px]">
+                <div class="w-full flex mt-[152px] lg:mt-[221px] lg:justify-between">
                     <div
                         class="w-[333px] h-[400px] bg-secondary rounded-e-[45px] lg:w-[950px] lg:h-[470px] lg:flex lg:justify-between lg:rounded-e-[70px]">
                         <div class="">
@@ -80,7 +80,7 @@
                 </div>
                 <div class="flex flex-wrap">
                     <div
-                        class="w-[295px] h-[333px] rounded-[30px] bg-primary overflow-hidden flex items-end mt-[50px] lg:mt-[166px] lg:w-[349px] lg:h-[395px] mx-auto lg:mx-0 lg:border-2 lg:border-secondary">
+                        class="w-[295px] h-[333px] rounded-[30px] bg-primary overflow-hidden flex items-end mt-[50px] lg:mt-[166px] lg:w-[349px] lg:h-[395px] mx-auto lg:mx-0 ">
                         <img src="~/assets/img/me.png" alt="">
                     </div>
                     <div
@@ -96,9 +96,9 @@
                                     </svg></span><span>Contact Me</span></a>
                         </div>
                         <div
-                            class="w-[230px] h-[50px] rounded-full bg-primary flex items-center justify-center mt-[18px] ms-[20px] lg:w-[349px] lg:h-[65px] lg:rounded-[20px] lg:border-2 lg:border-secondary hover:lg:text-primary hover:lg:bg-secondary hover:lg:shadow-2xl duration-500 ease-in-out lg:ms-0">
+                            class="w-[230px] h-[50px] rounded-full bg-secondary flex items-center justify-center mt-[18px] ms-[20px] lg:w-[349px] lg:h-[65px] lg:rounded-[20px] lg:border-2 lg:border-secondary hover:lg:text-secondary hover:lg:bg-primary hover:lg:shadow-2xl duration-500 ease-in-out lg:ms-0">
                             <a href="project"
-                                class="font-space-grotesk text-secondary font-bold fill-secondary text-[20px] flex items-center justify-center hover:lg:fill-white hover:lg:text-primary w-full h-full duration-500 ease-in-out">
+                                class="font-space-grotesk text-primary font-bold fill-primary text-[20px] flex items-center justify-center hover:lg:fill-secondary hover:lg:text-secondary w-full h-full duration-500 ease-in-out">
                                 <span class="me-[10px]"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="22.5"
                                         viewBox="0 0 576 512">
                                         <path

@@ -44,7 +44,8 @@
         <div class="border-t border-secondary mt-8 lg:w-[1400px] mx-auto"></div>
 
         <!-- Social Media Links -->
-        <div class="container mx-auto px-4 py-4 flex justify-center space-x-4">
+        <div class="container font-space-grotesk font-bold text-black flex justify-center mt-8 mb-2">FOLLOW ME</div>
+        <div class="container mx-auto px-4 flex justify-center space-x-4">
             <a href="#"
                 class="w-[30px] h-[30px] rounded-full p-[4px] flex items-center justify-center lg:w-[50px] lg:h-[50px] lg:p-[8px] lg:my-[10px] fill-black hover:fill-[#121212] duration-500 ease-in-out">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">

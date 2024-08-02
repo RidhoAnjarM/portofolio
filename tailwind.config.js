@@ -12,6 +12,7 @@ export default {
     container: {
       center: true,
       padding: '0px',
+      margin: '0px'
     },
     extend: {
       colors: {
@@ -21,9 +22,7 @@ export default {
         primary: '#F3F1EF',
         secondary: '#2F4D4B'
       },
-      screens: {
-        '2xl': '1440px',
-      },
+      
     },
   },
   plugins: [],
