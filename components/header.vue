@@ -23,18 +23,18 @@
                   HOME</NuxtLink>
               </li>
               <li class="group">
-                <NuxtLink to="/about"
+                <NuxtLink to="#about"
                   class="text-base text-black py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary duration-500 ease-in-out lg:border-black lg:border-[1px] lg:font-bold font-space-grotesk">
                   ABOUT</NuxtLink>
               </li>
               <li class="group">
-                <NuxtLink to="/project"
+                <NuxtLink to="#project"
                   class="text-base text-black py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary duration-500 ease-in-out lg:border-black lg:border-[1px] lg:font-bold font-space-grotesk">
                   PROJECT
                 </NuxtLink>
               </li>
               <li class="group">
-                <NuxtLink to="/contact"
+                <NuxtLink to="#contact"
                   class="text-base text-black py-2 mx-8 flex lg:bg-primary lg:h-[40px] lg:w-[115px] lg:rounded-[50px] lg:items-center lg:justify-center lg:ms-[50px] lg:mx-0 group-hover:lg:text-white group-hover:lg:bg-secondary duration-500 ease-in-out lg:border-black lg:border-[1px] lg:font-bold font-space-grotesk lg:me-[100px] ">
                   CONTACT
                 </NuxtLink>

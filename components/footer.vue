@@ -33,9 +33,9 @@
                     <a href="#"
                         class="block mb-2 text-black hover:text-secondary font-space-grotesk font-bold">NAVIGATION</a>
                     <a href="/" class="block mb-2 text-black hover:text-secondary font-space-grotesk">HOME</a>
-                    <a href="about" class="block mb-2 text-black hover:text-secondary font-space-grotesk">ABOUT</a>
-                    <a href="project" class="block mb-2 text-black hover:text-secondary font-space-grotesk">PROJECT</a>
-                    <a href="contact" class="block mb-2 text-black hover:text-secondary font-space-grotesk">CONTACT</a>
+                    <a href="#about" class="block mb-2 text-black hover:text-secondary font-space-grotesk">ABOUT</a>
+                    <a href="#project" class="block mb-2 text-black hover:text-secondary font-space-grotesk">PROJECT</a>
+                    <a href="#contact" class="block mb-2 text-black hover:text-secondary font-space-grotesk">CONTACT</a>
                 </div>
             </div>
         </div>
@@ -92,10 +92,8 @@
 
         <!-- Copyright -->
         <div class="text-center py-4">
-            <p class="text-black">&copy; Copyright. 2024 Ridho Anjar M.</p>
+            <p class="text-black">&copy;Copyright 2024 Ridho Anjar M.</p>
         </div>
     </footer>
-
-
 
 </template>
